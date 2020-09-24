@@ -3,4 +3,4 @@ Our approach was to try to ﬁne tune BERT to determine a movie’s or a book’
 
 Dealing_with_files file contains the dealing with movies and books data so it can be the input for Bert model. 
 NLPproject file contains all the project itself, including  comments and explanations for steps in Bert model. 
-ClassiﬁcationofMoviesandBooksbyGenreUsingBERT FILE contains the article itself, including explanations, experiment setup, results and analysis.  
+ClassiﬁcationofMoviesandBooksbyGenreUsingBERT file contains the article itself, including explanations, experiment setup, results and analysis.  
